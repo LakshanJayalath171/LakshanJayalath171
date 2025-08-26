@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshanjayalath171" alt="lakshanjayalath171" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **lakshanjayalath171@gmail.com**
 
