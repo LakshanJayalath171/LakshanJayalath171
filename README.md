@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Lakshan Jayalath</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshanjayalath171" alt="lakshanjayalath171" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=lakshanjayalath171](https://avatars.githubusercontent.com/u/182801392?v=4)" alt="lakshanjayalath171" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
