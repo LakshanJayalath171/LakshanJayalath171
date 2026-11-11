@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on<br> - Crave food delivery application👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br> Docker and Kubernates💬 Ask me about<br>
+🔭 I’m currently working on - Crave food delivery application<br> 👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning - Docker and Kubernates<br> 💬 Ask me about<br>
 
 
 ## 🌐 Socials:
