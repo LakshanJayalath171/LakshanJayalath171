@@ -6,6 +6,8 @@
 
 <h3 align="center">A passionate software developer from Sri Lanka 🇨🇦</h3>
 
+![Profile Banner](./profile banner.png)
+
 <br/>
 
 
